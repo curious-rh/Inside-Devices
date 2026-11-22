@@ -16,7 +16,7 @@ I opened this electrical tile cutter out of curiosity to explore its internal co
 
 I documented this exploration with photographs and observations in a PDF file.
 
-📄 [View Tile Cutter Investigation (PDF)](./Tile-cutter.pdf)
+📄./Electrical-Tools/Tile cutter.pdf
 
 ## What I Learned
 
